@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/FindTextUsingShortcut/Form1.cs) (VB: [Form1.vb](./VB/FindTextUsingShortcut/Form1.vb))
+<!-- default file list end -->
 # How to find text using a keyboard shortcut
 
 
